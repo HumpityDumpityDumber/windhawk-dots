@@ -1,0 +1,18 @@
+{
+  "theme": "NoRecommendedSection",
+  "disableNewStartMenuLayout": 0,
+  "webContentStyles[0].target": "h4, .suggContainer, .groupTitle, .suggsListContainer, .title, .details, .secondaryText, .scope-tile > div, .menu-item_details",
+  "webContentStyles[0].styles[0]": "font-family: 'Google Sans Rounded Rounded' !important",
+  "webContentCustomJs": "",
+  "styleConstants[0]": "",
+  "resourceVariables[0].variableKey": "",
+  "resourceVariables[0].value": "",
+  "controlStyles[0].target": "Windows.UI.Xaml.Controls.TextBlock",
+  "controlStyles[0].styles[0]": "FontFamily=Google Sans Rounded Rounded, Segoe Fluent Icons, Segoe MDL2 Assets",
+  "webContentStyles[1].target": "#chatButtonRight",
+  "webContentStyles[1].styles[0]": "display: none !important",
+  "webContentStyles[2].target": "#scopesHeader",
+  "webContentStyles[2].styles[0]": "display: none !important",
+  "webContentStyles[3].target": ".curatedSettingsGroup",
+  "webContentStyles[3].styles[0]": "display: none !important"
+}
