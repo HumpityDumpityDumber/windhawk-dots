@@ -2,6 +2,9 @@
 ### My personal Windows config (meant for use with Windhawk).
 ![Example Screenshot](https://raw.githubusercontent.com/twigform/windhawk-dots/refs/heads/main/assets/example1.png)
 
+> [!WARNING]  
+> These configs are not perfectly stable or maintained by me! I'm willing to *try* to help with any issues, but there are NO guarantees.
+
 ## Prerequisites:
 You will, of course, need [Windhawk](https://windhawk.net/) to use these. The configs here use the following mods:
 - Taskbar Clock Customization
