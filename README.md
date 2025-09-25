@@ -15,7 +15,7 @@ You will, of course, need [Windhawk](https://windhawk.net/) to use these. The co
 
 Some fonts are needed if you'd like idendical results, specifically: 
 
-Google Sans Rounded (Private, closed source font. I'd reccomend simply changing the font name in the configs to something else. If you REALLY want it, you can rip the font "Google Sans Flex" from a rooted device running Android 16, and render out a custom font using it with the "rounded" paramters set to max.) 
+Google Sans Rounded (Private, closed source font. I'd reccomend simply changing the font name in the configs to something else. If you REALLY want it, you can rip the font "Google Sans Flex" from a rooted device running Android 16, and render out a custom font using it with the "rounded" parameters set to max.) 
 [SF Pro Fonts](https://github.com/sahibjotsaggu/San-Francisco-Pro-Fonts/tree/master)
 
 If you want text on your taskbar apps, there's a setting in Windows called "Combine taskbar buttons and hide labels". Simply set that to "When taskbar is full".
