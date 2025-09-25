@@ -1,5 +1,6 @@
 # Windhawk Dots
 ### My personal Windows config (meant for use with Windhawk).
+![Example Screenshot](https://raw.githubusercontent.com/twigform/windhawk-dots/refs/heads/main/assets/example1.png)
 
 ## Prerequisites:
 You will, of course, need [Windhawk](https://windhawk.net/) to use these. The configs here use the following mods:
@@ -16,3 +17,18 @@ Google Sans Rounded (Private, closed source font. I'd reccomend simply changing 
 
 These configs are built for my laptop, which has a 1920x1200 display scaled at 125%. **All the configs SHOULD work** (I've tested on other devices), but keep this info in mind if using these on a normal 16:9 display scaled at 100%.
 
+## Configs
+
+### Taskbar / Popups
+
+![Taskbar Screenshot](https://github.com/twigform/windhawk-dots/blob/main/assets/taskbar.png?raw=true)
+![Volume Screenshot](https://github.com/twigform/windhawk-dots/blob/main/assets/volumeex.png?raw=true)
+
+### Notification Center / Control Center
+![Notif Screenshot](https://github.com/twigform/windhawk-dots/blob/main/assets/control.png?raw=true)
+
+### Start Menu / Search
+![Search / Start Screenshot](https://github.com/twigform/windhawk-dots/blob/main/assets/search.png?raw=true)
+![Search / Start Screenshot](https://github.com/twigform/windhawk-dots/blob/main/assets/start.png?raw=true)
+
+### Lock Screen
