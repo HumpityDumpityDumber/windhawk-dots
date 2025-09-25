@@ -32,3 +32,4 @@ These configs are built for my laptop, which has a 1920x1200 display scaled at 1
 ![Search / Start Screenshot](https://github.com/twigform/windhawk-dots/blob/main/assets/start.png?raw=true)
 
 ### Lock Screen
+![Lock Screenshot](https://github.com/twigform/windhawk-dots/blob/main/assets/lock.png?raw=true)
