@@ -1,0 +1,20 @@
+{
+  "theme": "",
+  "styleConstants[0]": "",
+  "resourceVariables[0].variableKey": "",
+  "resourceVariables[0].value": "",
+  "controlStyles[0].target": "Windows.UI.Xaml.Controls.TextBlock",
+  "controlStyles[0].styles[0]": "FontFamily=Google Sans Rounded Rounded, Segoe Fluent Icons, Segoe MDL2 Assets",
+  "controlStyles[1].target": "Windows.UI.Xaml.Controls.Primitives.Thumb#HorizontalThumb",
+  "controlStyles[1].styles[0]": "Visibility = 1",
+  "controlStyles[2].target": "Windows.UI.Xaml.Shapes.Rectangle#HorizontalTrackRect",
+  "controlStyles[2].styles[0]": "Height = 10",
+  "controlStyles[2].styles[1]": "Fill := $overlay",
+  "controlStyles[2].styles[2]": "RadiusY = 3",
+  "controlStyles[2].styles[3]": "RadiusX = 3",
+  "controlStyles[3].target": "Windows.UI.Xaml.Shapes.Rectangle#HorizontalDecreaseRect",
+  "controlStyles[3].styles[0]": "Height = 10",
+  "controlStyles[3].styles[1]": "RadiusY = 3",
+  "controlStyles[3].styles[2]": "RadiusX = 3",
+  "controlStyles[3].styles[3]": "Margin = 0"
+}
