@@ -15,6 +15,8 @@ Some fonts are needed if you'd like idendical results, specifically:
 Google Sans Rounded (Private, closed source font. I'd reccomend simply changing the font name in the configs to something else. If you REALLY want it, you can rip the font "Google Sans Flex" from a rooted device running Android 16, and render out a custom font using it with the "rounded" paramters set to max.) 
 [SF Pro Fonts](https://github.com/sahibjotsaggu/San-Francisco-Pro-Fonts/tree/master)
 
+If you want text on your taskbar apps, there's a setting in Windows called "Combine taskbar buttons and hide labels". Simply set that to "When taskbar is full".
+
 These configs are built for my laptop, which has a 1920x1200 display scaled at 125%. **All the configs SHOULD work** (I've tested on other devices), but keep this info in mind if using these on a normal 16:9 display scaled at 100%.
 
 ## Configs
