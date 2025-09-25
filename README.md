@@ -39,6 +39,7 @@ These configs are built for my laptop, which has a 1920x1200 display scaled at 1
 - [Windows 11 Taskbar Styler](https://github.com/twigform/windhawk-dots/blob/main/configs/taskbar.json)
 - [Taskbar Clock Customization](https://github.com/twigform/windhawk-dots/blob/main/configs/clock.json)
 
+---------
 ### Notification Center / Control Center
 ![Notif Screenshot](https://github.com/twigform/windhawk-dots/blob/main/assets/control.png?raw=true)
 
@@ -52,6 +53,7 @@ These configs are built for my laptop, which has a 1920x1200 display scaled at 1
 **Configs:**
 - [Windows 11 Notification Center Styler](https://github.com/twigform/windhawk-dots/blob/main/configs/notificationcenter.json)
 
+---------
 ### Start Menu / Search
 ![Search / Start Screenshot](https://github.com/twigform/windhawk-dots/blob/main/assets/search.png?raw=true)
 ![Search / Start Screenshot](https://github.com/twigform/windhawk-dots/blob/main/assets/start.png?raw=true)
@@ -66,6 +68,7 @@ These configs are built for my laptop, which has a 1920x1200 display scaled at 1
 **Configs:**
 - [Windows 11 Start Menu Center Styler](https://github.com/twigform/windhawk-dots/blob/main/configs/start.json)
 
+---------
 ### Lock Screen
 ![Lock Screenshot](https://github.com/twigform/windhawk-dots/blob/main/assets/lock.png?raw=true)
 
