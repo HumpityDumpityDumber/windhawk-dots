@@ -24,12 +24,61 @@ These configs are built for my laptop, which has a 1920x1200 display scaled at 1
 ![Taskbar Screenshot](https://github.com/twigform/windhawk-dots/blob/main/assets/taskbar.png?raw=true)
 ![Volume Screenshot](https://github.com/twigform/windhawk-dots/blob/main/assets/volumeex.png?raw=true)
 
+**Features/Modified Things:**
+- Custom search text
+- Custom subprocess icon
+- Custom rounding/bar for popups
+- Custom font
+- Smiley in the clock :)
+
+**Mods Required:**
+- Windows 11 Taskbar Styler
+- Taskbar Clock Customization
+
+**Configs:**
+- [Windows 11 Taskbar Styler](https://github.com/twigform/windhawk-dots/blob/main/configs/taskbar.json)
+- [Taskbar Clock Customization](https://github.com/twigform/windhawk-dots/blob/main/configs/clock.json)
+
 ### Notification Center / Control Center
 ![Notif Screenshot](https://github.com/twigform/windhawk-dots/blob/main/assets/control.png?raw=true)
+
+**Features/Modified Things:**
+- Custom font
+- Custom sliders for brightness/volume
+
+**Mods Required:**
+- Windows 11 Notification Center Styler
+
+**Configs:**
+- [Windows 11 Notification Center Styler](https://github.com/twigform/windhawk-dots/blob/main/configs/notificationcenter.json)
 
 ### Start Menu / Search
 ![Search / Start Screenshot](https://github.com/twigform/windhawk-dots/blob/main/assets/search.png?raw=true)
 ![Search / Start Screenshot](https://github.com/twigform/windhawk-dots/blob/main/assets/start.png?raw=true)
 
+**Features/Modified Things:**
+- Hidden copilot button/other general bloat
+- Custom font
+
+**Mods Required:**
+- Windows 11 Start Menu Center Styler
+
+**Configs:**
+- [Windows 11 Start Menu Center Styler](https://github.com/twigform/windhawk-dots/blob/main/configs/start.json)
+
 ### Lock Screen
 ![Lock Screenshot](https://github.com/twigform/windhawk-dots/blob/main/assets/lock.png?raw=true)
+
+**Features/Modified Things:**
+- Custom font
+- Custom spacing
+- Rounded media controls
+
+
+**Mods Required:**
+- [Forked](https://github.com/AromaKitsune/Windows-XAML-Styles/blob/main/guides/Lock-Screen-Styling-Guide.md) Windows 11 Start Menu Center Styler
+
+
+**Configs:**
+- [Windows 11 Lock Screen Styler](https://github.com/twigform/windhawk-dots/blob/main/configs/lock.json)
+
