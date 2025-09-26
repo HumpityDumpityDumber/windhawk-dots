@@ -36,8 +36,7 @@
   "controlStyles[7].styles[0]": "VerticalAlignment=Bottom",
   "controlStyles[7].styles[1]": "Margin=0,5,0,-5",
   "controlStyles[8].target": "Windows.UI.Xaml.Controls.StackPanel#PrimaryAndSecondaryTextContainer > Windows.UI.Xaml.Controls.TextBlock#Title",
-  "controlStyles[8].styles[0]": "TextAlignment=Center",
-  "controlStyles[8].styles[1]": "FontSize=18",
+  "controlStyles[8].styles[0]": "HorizontalAlignment=Stretch",
   "controlStyles[9].target": "Windows.UI.Xaml.Controls.StackPanel#PrimaryAndSecondaryTextContainer > Windows.UI.Xaml.Controls.TextBlock#Subtitle",
   "controlStyles[9].styles[0]": "TextAlignment=Center",
   "controlStyles[9].styles[1]": "Margin=0,3,0,0",
@@ -64,5 +63,9 @@
   "controlStyles[14].styles[0]": "FontSize=16",
   "controlStyles[15].target": "Windows.UI.Xaml.Controls.Image#IconImage",
   "controlStyles[15].styles[0]": "Height=20",
-  "controlStyles[15].styles[1]": "Width=20"
+  "controlStyles[15].styles[1]": "Width=20",
+  "controlStyles[8].styles[1]": "TextAlignment=Center",
+  "controlStyles[9].styles[2]": "HorizontalAlignment=Stretch",
+  "controlStyles[16].target": "Windows.UI.Xaml.Controls.StackPanel#PrimaryAndSecondaryTextContainer",
+  "controlStyles[16].styles[0]": "HorizontalAlignment=Center"
 }
